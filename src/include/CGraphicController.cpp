@@ -81,7 +81,7 @@ void CGraphicController::renderLayout()
     mvwprintw(m_windowMap.window, 8, 50, "B - Business");
     mvwprintw(m_windowMap.window, 10, 50, "U - University");
     mvwprintw(m_windowMap.window, 12, 50, "L - Laboratory");
-	wrefresh(m_windowMap.window);
+    wrefresh(m_windowMap.window);
     */
     
     box(m_windowMenu.window, 0, 0);
@@ -110,7 +110,7 @@ void CGraphicController::renderSingleWindowMenu(const std::string & message)
 
     box(m_windowMenu.window, 0, 0);
     mvwprintw(m_windowMenu.window, 1, 2, message.c_str());
-	wrefresh(m_windowMenu.window);
+    wrefresh(m_windowMenu.window);
 
     for (auto it = m_menuOptions.begin(); it != m_menuOptions.end(); ++it) {
         wattron(m_windowMenu.window, A_REVERSE); 
@@ -180,7 +180,7 @@ void CGraphicController::renderSubmenu(const CCell * cell, int selected_x, int s
         mvwprintw(m_windowSubmenu.window, it.y, it.x, "%s", it.text.c_str());
         wattroff(m_windowSubmenu.window, A_REVERSE); 
     }
-	wrefresh(m_windowSubmenu.window);
+    wrefresh(m_windowSubmenu.window);
 }
 
 void CGraphicController::clearSubmenu()
@@ -188,7 +188,7 @@ void CGraphicController::clearSubmenu()
     m_submenuOptions.clear();
     werase(m_windowSubmenu.window);
     box(m_windowSubmenu.window, 0, 0);
-	wrefresh(m_windowSubmenu.window);
+    wrefresh(m_windowSubmenu.window);
 }
 
 void CGraphicController::renderMap(CMap * map, int highlightX, int highlightY) 
