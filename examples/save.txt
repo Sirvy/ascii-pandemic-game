@@ -1,0 +1,114 @@
+money : 107478700
+epidemic : 0
+stocks : 0
+masks : 0
+r : 3
+actionMasks : 0
+actionSchools : 0
+actionBusiness : 0
+actionLockdown : 0
+invHealthcare : 540000
+invScience : 10000
+invBusiness : 1000000
+citizenCnt : 27198
+studentCnt : 86
+doctorCnt : 407
+scientistCnt : 13
+businessmanCnt : 80
+infected : 3
+isolated : 0
+deathsByVirus : 13632
+deathsByOther : 156
+map : 0
+7 : 13
+residential : 1035 : 0
+residential : 1045 : 0
+residential : 1042 : 0
+residential : 1049 : 0
+business : 10 : 10
+business : 10 : 10
+empty
+residential : 1058 : 0
+residential : 1047 : 0
+residential : 1048 : 0
+empty
+empty
+university : 11
+residential : 1053 : 0
+residential : 1039 : 0
+residential : 1051 : 0
+residential : 1053 : 0
+business : 10 : 10
+business : 10 : 10
+empty
+residential : 1042 : 0
+residential : 1042 : 0
+residential : 1047 : 0
+empty
+empty
+university : 7
+residential : 1039 : 0
+residential : 1047 : 0
+residential : 1039 : 0
+residential : 1052 : 0
+business : 10 : 10
+business : 10 : 10
+empty
+residential : 1037 : 0
+residential : 1047 : 0
+residential : 1052 : 0
+empty
+empty
+university : 4
+residential : 1049 : 0
+residential : 1045 : 0
+hospital : 57 : 0 : 57
+residential : 1048 : 0
+business : 10 : 10
+business : 10 : 10
+empty
+university : 18
+university : 15
+empty
+empty
+empty
+university : 0
+university : 14
+university : 17
+residential : 1048 : 0
+residential : 1044 : 0
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+hospital : 50 : 0 : 50
+hospital : 50 : 0 : 50
+hospital : 50 : 0 : 50
+hospital : 50 : 0 : 50
+hospital : 50 : 0 : 50
+hospital : 50 : 0 : 50
+hospital : 50 : 0 : 50
+empty
+empty
+empty
+empty
+empty
+lab : 13 : 0 : 13

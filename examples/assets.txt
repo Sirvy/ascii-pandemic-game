@@ -1,0 +1,6 @@
+empty:"   "
+residential:" R "
+hospital:" H "
+business:" B "
+university:" U "
+laboratory:" L "
