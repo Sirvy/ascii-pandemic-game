@@ -15,6 +15,8 @@ The epidemic starts in X seconds, your mission is to build a city and prepare fo
 
 The game ends when either all citizens in the city die or you successfully develop a vaccine.
 
+The game can be saved and loaded.
+
 ## Buildings
 - Residential - summons citizens
 - Hospital - employs doctors, isolates and treats infected - the speed of treatment is relative to the number of emplyed doctors in each hospital
