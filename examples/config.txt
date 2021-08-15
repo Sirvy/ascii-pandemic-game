@@ -1,9 +1,9 @@
-startingMoney : 100000000
+startingMoney : 10000000
 stockPrice : 1000
 stockAmount : 100
 masksPrice : 100
 masksAmount : 100
-residentialCitizensAmount : 15831
+residentialCitizensAmount : 100
 residentialPrice : 50000
 hospitalPrice : 100000
 hospitalMaxPatients : 50
@@ -18,6 +18,6 @@ graduationTime : 30
 laboratoryPrice : 500000
 sciencePrice : 10000
 vaccineDevelopmentSpeed : 100
-virusR : 2
+virusR : 1
 virusKillTime : 60
 virusCountDown : 100
